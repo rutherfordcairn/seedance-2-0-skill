@@ -1,0 +1,8 @@
+{
+  "model": "seedance-2.0",
+  "prompt": "A small paper boat crosses a rain puddle at dawn, gentle lateral camera move, natural water sound.",
+  "duration": 6,
+  "resolution": "720p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true
+}

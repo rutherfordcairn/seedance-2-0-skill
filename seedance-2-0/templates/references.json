@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.0-mini",
+  "prompt": "The person in @Image 1 walks through the location in @Video 1 while the speech in @Audio 1 remains synchronized.",
+  "duration": 6,
+  "resolution": "720p",
+  "aspect_ratio": "16:9",
+  "reference_images": [{"url": "https://cdn.example.invalid/replace-image.png"}],
+  "reference_videos": [{"url": "https://cdn.example.invalid/replace-video.mp4"}],
+  "reference_audios": [{"url": "https://cdn.example.invalid/replace-audio.wav"}]
+}

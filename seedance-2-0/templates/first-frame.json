@@ -1,0 +1,8 @@
+{
+  "model": "seedance-2.0-fast",
+  "prompt": "Continue the opening frame as the camera slowly tracks forward; preserve the subject, palette and lighting.",
+  "duration": 5,
+  "resolution": "720p",
+  "aspect_ratio": "16:9",
+  "start_image": {"url": "https://cdn.example.invalid/replace-with-your-frame.png"}
+}

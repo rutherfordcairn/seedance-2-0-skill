@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.0",
+  "prompt": "Move naturally from the opening frame to the closing frame; maintain character identity and camera continuity.",
+  "duration": 8,
+  "resolution": "1080p",
+  "aspect_ratio": "9:16",
+  "start_image": {"url": "https://cdn.example.invalid/replace-with-start.png"},
+  "end_image": {"url": "https://cdn.example.invalid/replace-with-end.png"}
+}
